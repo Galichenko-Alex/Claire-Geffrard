@@ -1,4 +1,4 @@
-### `npm start`
+### `How to start`
 
 1. run yarn install
 2. run yarn start
